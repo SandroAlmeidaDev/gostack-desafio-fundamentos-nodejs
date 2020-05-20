@@ -25,7 +25,7 @@
 ## Rodando o projeto 
 1 - yarn dev:server
 
-Inserir uma GIF aqui
+![transactions](https://user-images.githubusercontent.com/58606794/82395092-209d4f00-9a21-11ea-95c3-575b03f3d220.gif)
 
 # License 
 [Sandro Almeida](https://github.com/SandroAlmeidaDev)
